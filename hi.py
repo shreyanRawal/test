@@ -1,5 +1,3 @@
-print("hi")
-
-print("hello")
-
-print("now merge")
+a = 1
+b = 2
+print("sum is " ,a*b)
